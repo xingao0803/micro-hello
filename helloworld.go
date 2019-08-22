@@ -1,8 +1,8 @@
 package main
 
-import {
+import (
     "github.com/micro/go-micro"
-}
+)
 
 func main() {
     service := micro.NewService(
